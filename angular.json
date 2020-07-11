@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "testeAgoraVai"
+    }
+  },
+  "defaultProject": "testeAgoraVai",
+  "cli": {
+    "analytics": false
+  }
 }
